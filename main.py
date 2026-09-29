@@ -10,7 +10,7 @@ from telegram.ext import (
     ConversationHandler
 )
 
-BOT_TOKEN = '1234567890:AAQXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' # PEGA TU TOKEN AQUÍ
+BOT_TOKEN = '8471631752:AAFnPkZEsUml4aiU3HvzY8TU2QP_Hv34c68' # PEGA TU TOKEN AQUÍ
 IMAGE_DIR = 'capturas'
 os.makedirs(IMAGE_DIR, exist_ok=True)
 
