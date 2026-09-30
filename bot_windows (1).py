@@ -12,7 +12,7 @@ from telegram.ext import (
 
 # --- CONFIGURACIÓN ---
 # Reemplaza con tu token real de @BotFather
-BOT_TOKEN = 8471631752:AAFnPkZEsUml4aiU3HvzY8TU2QP_Hv34c68
+BOT_TOKEN = "8471631752:AAFnPkZEsUml4aiU3HvzY8TU2QP_Hv34c68"
 
 # Carpeta donde se guardarán las imágenes (Windows manejará la ruta automáticamente)
 IMAGE_DIR = os.path.join(os.getcwd(), "capturas")
